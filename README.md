@@ -13,3 +13,8 @@ Deliverable 3: Create a Gauge Chart
 
 Deliverable 4: Customize the Dashboard
 
+[charts.js](charts.js)
+
+[index.html](index.html)
+
+[samples.json](samples.json)
